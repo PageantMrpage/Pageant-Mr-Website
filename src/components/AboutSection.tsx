@@ -42,7 +42,7 @@ export default function AboutSection() {
 
           <div className="space-y-6">
             <p className="text-lg leading-relaxed text-[#D1D5E0]">
-              HAPPI MR GLOBAL celebrates the evolution of the modern man — confident, creative, and conscious.
+              Happi Mr Global celebrates the evolution of the modern man — confident, creative, and conscious.
             </p>
             <p className="text-lg leading-relaxed text-[#D1D5E0]">
               Our platform goes beyond appearance, shaping men into leaders with presence, purpose, and poise.

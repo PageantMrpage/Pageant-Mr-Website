@@ -165,7 +165,7 @@ Bengaluru, Karnataka</h3>
                     </div>
                     <div>
                       <p className="text-sm text-[#D1D5E0]/70 mb-1">Location</p>
-                      <p className="text-white">The Beginning 
+                      <p className="text-white">The Beginning,
 Bengaluru, Karnataka</p>
                     </div>
                   </div>

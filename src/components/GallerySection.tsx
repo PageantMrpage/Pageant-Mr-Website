@@ -5,11 +5,11 @@ const galleryImages = [
   { src: '/WhatsApp Image 2025-10-31 at 21.24.38_cd94f095.jpg' },
   { src: '/WhatsApp Image 2025-10-31 at 21.45.21_3db0efaa.jpg' },
   { src: '/WhatsApp Image 2025-10-31 at 21.24.37_d38a09eb.jpg'},
-  { src: '/unnamed (1) copy copy.jpg' },
-  { src: '/unnamed (3) copy.jpg' },
-  { src: '/WhatsApp Image 2025-10-31 at 21.37.08_3e3dc953.jpg' },
-  { src: '/WhatsApp Image 2025-10-31 at 21.37.08_23eb3502.jpg'},
-  { src: '/WhatsApp Image 2025-10-31 at 21.41.08_a3401d82.jpg'},
+  { src: '/WhatsApp Image 2025-11-12 at 17.10.44_18bf3b00.jpg' },
+  { src: '/WhatsApp Image 2025-11-12 at 17.10.54_faa797f4.jpg' },
+  { src: '/WhatsApp Image 2025-11-12 at 17.11.47_c2b1009e.jpg' },
+  { src: '/WhatsApp Image 2025-11-12 at 17.24.29_1e06e223.jpg'},
+  { src: '/WhatsApp Image 2025-11-13 at 14.57.30_4dcd3380.jpg'},
 ];
 
 export default function GallerySection() {

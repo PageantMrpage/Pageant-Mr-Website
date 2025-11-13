@@ -128,7 +128,8 @@ export default function ContactSection() {
               <div className="absolute inset-0 bg-gradient-to-br from-[#7A3CFF]/10 to-[#006CFF]/10 rounded-3xl" />
 
               <div className="relative">
-                <h3 className="text-2xl font-bold text-white mb-6">The Beginnings</h3>
+                <h3 className="text-2xl font-bold text-white mb-6">The Beginning 
+Bengaluru, Karnataka</h3>
 
                 <div className="space-y-6">
                   <a
@@ -141,7 +142,7 @@ export default function ContactSection() {
                     <div>
                       <p className="text-sm text-[#D1D5E0]/70 mb-1">Email</p>
                       <p className="text-white group-hover:text-[#006CFF] transition-colors">
-                        ea@happimisspagenat.com
+                        ea@happimrpagenat.com
                       </p>
                     </div>
                   </a>
@@ -164,7 +165,8 @@ export default function ContactSection() {
                     </div>
                     <div>
                       <p className="text-sm text-[#D1D5E0]/70 mb-1">Location</p>
-                      <p className="text-white">The Beginnings</p>
+                      <p className="text-white">The Beginning 
+Bengaluru, Karnataka</p>
                     </div>
                   </div>
                 </div>

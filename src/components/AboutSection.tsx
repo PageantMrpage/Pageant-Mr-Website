@@ -29,7 +29,7 @@ export default function AboutSection() {
               <div className="absolute inset-0 flex items-center justify-center">
                 <div className="text-center p-8">
                   <img
-  src="/unnamed (3) copy.jpg"   // 🔹 Replace with your actual image filename in the public folder
+  src="/WhatsApp Image 2025-11-12 at 17.30.15_39c188b8.jpg"   // 🔹 Replace with your actual image filename in the public folder
   alt="Excellence in Masculinity"
   className="w-full h-full object-cover rounded-2xl"
 />

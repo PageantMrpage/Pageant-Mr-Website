@@ -8,7 +8,7 @@ const PartnersSection = () => {
     { name: 'Fitness & Gym Partners', logo: '/f1db0e9d-dba3-43b4-98d0-5640359485ac[1].jpg' },
     { name: 'Hotels & Hospitality Partners', logo: '/0f9ad7f1-ce37-4f5a-8ffd-1aa45920943e[1].jpg' },
     { name: 'Jewelry & Accessories Brands', logo: '/883e7ea9-9ed3-4998-a54b-6e874990d7de[1].jpg' },
-    { name: 'Media & PR Partners', logo: '/unnamed (6).jpg' },
+    { name: 'Media & PR Partners', logo: '/bf25e5ed-cb9a-4585-b448-cdcd7c22259e[1].jpg' },
     { name: 'Lifestyle & Wellness Partners', logo: '/22cffa72-cdf8-49e8-a916-56ce187bb2cc[1].jpg' },
   ];
 

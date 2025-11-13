@@ -31,7 +31,7 @@ export default function Footer() {
               style={{ filter: 'drop-shadow(0 0 10px rgba(0, 108, 255, 0.3))' }}
             />
             <p className="text-[#D1D5E0] leading-relaxed mb-6">
-              HAPPI MR GLOBAL redefines what it means to be a modern man — confident, ethical, and globally aware.
+              HAPPI Mr GLOBAL redefines what it means to be a modern man — confident, ethical, and globally aware.
             </p>
             <div className="flex space-x-4">
               <a
@@ -84,7 +84,7 @@ export default function Footer() {
                 className="flex items-center space-x-3 text-[#D1D5E0] hover:text-[#006CFF] transition-colors group"
               >
                 <Mail className="w-5 h-5 flex-shrink-0" />
-                <span className="text-sm">ea@happimisspagenat.com</span>
+                <span className="text-sm">ea@happimrpagenat.com</span>
               </a>
               <a
                 href="tel:+919880012482"
@@ -95,7 +95,10 @@ export default function Footer() {
               </a>
               <div className="flex items-center space-x-3 text-[#D1D5E0]">
                 <MapPin className="w-5 h-5 flex-shrink-0" />
-                <span className="text-sm">The Beginnings</span>
+                <span className="text-sm">The Beginning, 
+Bengaluru, Karnataka </span>
+                
+                
               </div>
             </div>
           </div>
@@ -103,7 +106,7 @@ export default function Footer() {
 
         <div className="pt-8 border-t border-white/10">
           <p className="text-center text-[#D1D5E0]/70">
-            © {currentYear} HAPPI MR GLOBAL. All Rights Reserved.
+            © {currentYear} HAPPI Mr GLOBAL. All Rights Reserved.
           </p>
         </div>
       </div>

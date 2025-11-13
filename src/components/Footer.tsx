@@ -31,7 +31,7 @@ export default function Footer() {
               style={{ filter: 'drop-shadow(0 0 10px rgba(0, 108, 255, 0.3))' }}
             />
             <p className="text-[#D1D5E0] leading-relaxed mb-6">
-              HAPPI Mr GLOBAL redefines what it means to be a modern man — confident, ethical, and globally aware.
+              Happi Mr Global redefines what it means to be a modern man — confident, ethical, and globally aware.
             </p>
             <div className="flex space-x-4">
               <a
@@ -106,7 +106,7 @@ Bengaluru, Karnataka </span>
 
         <div className="pt-8 border-t border-white/10">
           <p className="text-center text-[#D1D5E0]/70">
-            © {currentYear} HAPPI Mr GLOBAL. All Rights Reserved.
+            © {currentYear} Happi Mr Global. All Rights Reserved.
           </p>
         </div>
       </div>

@@ -6,10 +6,10 @@ const PartnersSection = () => {
     { name: 'Photographers & Videographers', logo: '/b05addfc-f353-4f35-99f3-e7204fc88ee3[1].jpg' },
     { name: 'Grooming & Makeup Artists', logo: '/7702a8bb-3e66-4174-b2fd-ced93d0657e0[1].jpg' },
     { name: 'Fitness & Gym Partners', logo: '/f1db0e9d-dba3-43b4-98d0-5640359485ac[1].jpg' },
-    { name: 'Hotels & Hospitality Partners', logo: '/unnamed (3).jpg' },
-    { name: 'Jewelry & Accessories Brands', logo: '/unnamed (4).jpg' },
+    { name: 'Hotels & Hospitality Partners', logo: '/0f9ad7f1-ce37-4f5a-8ffd-1aa45920943e[1].jpg' },
+    { name: 'Jewelry & Accessories Brands', logo: '/883e7ea9-9ed3-4998-a54b-6e874990d7de[1].jpg' },
     { name: 'Media & PR Partners', logo: '/unnamed (6).jpg' },
-    { name: 'Lifestyle & Wellness Partners', logo: '/unnamed (5).jpg' },
+    { name: 'Lifestyle & Wellness Partners', logo: '/22cffa72-cdf8-49e8-a916-56ce187bb2cc[1].jpg' },
   ];
 
   return (

@@ -3,9 +3,9 @@ import { Handshake } from 'lucide-react';
 const PartnersSection = () => {
   const partners = [
     { name: 'Fashion Designers & Boutiques', logo: '/unnamed (14).jpg' },
-    { name: 'Photographers & Videographers', logo: '/unnamed copy.jpg' },
-    { name: 'Grooming & Makeup Artists', logo: '/unnamed (1) copy.jpg' },
-    { name: 'Fitness & Gym Partners', logo: '/unnamed (2).jpg' },
+    { name: 'Photographers & Videographers', logo: '/b05addfc-f353-4f35-99f3-e7204fc88ee3[1].jpg' },
+    { name: 'Grooming & Makeup Artists', logo: '/7702a8bb-3e66-4174-b2fd-ced93d0657e0[1].jpg' },
+    { name: 'Fitness & Gym Partners', logo: '/f1db0e9d-dba3-43b4-98d0-5640359485ac[1].jpg' },
     { name: 'Hotels & Hospitality Partners', logo: '/unnamed (3).jpg' },
     { name: 'Jewelry & Accessories Brands', logo: '/unnamed (4).jpg' },
     { name: 'Media & PR Partners', logo: '/unnamed (6).jpg' },

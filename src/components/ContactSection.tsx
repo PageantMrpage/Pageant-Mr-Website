@@ -128,7 +128,7 @@ export default function ContactSection() {
               <div className="absolute inset-0 bg-gradient-to-br from-[#7A3CFF]/10 to-[#006CFF]/10 rounded-3xl" />
 
               <div className="relative">
-                <h3 className="text-2xl font-bold text-white mb-6">The Beginning 
+                <h3 className="text-2xl font-bold text-white mb-6">The Beginning,
 Bengaluru, Karnataka</h3>
 
                 <div className="space-y-6">
